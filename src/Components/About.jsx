@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Marcos Paulo";
+  "Estou aprendendo a programar e estou vendo as linguagens de programação HTML e CSS";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -42,7 +42,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Estou gostando de programação e que tá atualmente estudando Sistema para Internet";
 
 const About = () => {
   return (
