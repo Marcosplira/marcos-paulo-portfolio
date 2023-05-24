@@ -28743,8 +28743,8 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _linguagemDeProgramaçãoJpg = require("../images/linguagem-de-programa\xe7\xe3o.jpg");
-var _linguagemDeProgramaçãoJpgDefault = parcelHelpers.interopDefault(_linguagemDeProgramaçãoJpg);
+ */ var _linguagemDeProgramacaoJpg = require("../images/linguagem-de-programacao.jpg");
+var _linguagemDeProgramacaoJpgDefault = parcelHelpers.interopDefault(_linguagemDeProgramacaoJpg);
 const imageAltText = "desktop with books and laptop";
 /**
  * Project list
@@ -28791,7 +28791,7 @@ const Portfolio = ()=>{
                             alignSelf: "center"
                         },
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            src: (0, _linguagemDeProgramaçãoJpgDefault.default),
+                            src: (0, _linguagemDeProgramacaoJpgDefault.default),
                             style: {
                                 height: "90%",
                                 width: "100%",
@@ -28874,8 +28874,8 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/linguagem-de-programação.jpg":"f1vDi"}],"f1vDi":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "linguagem-de-programa\xe7\xe3o.aab26910.jpg" + "?" + Date.now();
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/linguagem-de-programacao.jpg":"6KbLI"}],"6KbLI":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "linguagem-de-programacao.280ea648.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire370d")
 
