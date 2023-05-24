@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/linguagem-de-programação.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -34,7 +34,7 @@ const projectList = [
     title: "Projetos",
     description:
       "HTML e CSS",
-    url: "",
+    url: "https://perfectdodgerbluecarriers.marcospaulo80.repl.co",
   },
   {
     title: "Calculadora",
